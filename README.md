@@ -131,4 +131,4 @@ Cela :
 
 ## 👨‍💻 Auteur
 
-- 👤 Mustapha Mouaiad — MUS IIIA, S2
+- 👤 Mustapha MOUAIAD — MUS IIIA, S2
